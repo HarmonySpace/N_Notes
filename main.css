@@ -1,0 +1,32 @@
+@import url(vars.css);
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.list-element-1 {
+    font-size: 2rem;
+    font-weight: 600;
+    color: var(--textcolor);
+    margin: 0 1.7rem;
+    list-style: none;
+}
+
+.list-container-1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 1rem 0.5em;
+}
+
+.nav-container-1 {
+    box-shadow: -10 10 10 rgb(0, 0, 0, 0.5);
+}
+
+
+
