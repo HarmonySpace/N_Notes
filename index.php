@@ -8,16 +8,37 @@
     <title>Inicio</title>
 </head>
 <body>
+    <section>
+        <button class="btn" name="addnote">+</button>
+    </section>
     <section class="sec-container-1">
         <nav class="nav-container-1">
             <ul class="list-container-1">
-                <li class="list-element-1">Nueva</li>
-                <li class="list-element-1">Notas</li>
-                <li class="list-element-1">Listas</li>
-                <li class="list-element-1">Sign in</li>
-                <li class="list-element-1">Log in</li>
+                <li><a href="#">Sign in</a></li>
+                <li><a href="#">Log in</a></li>
             </ul>
         </nav>      
+    </section>
+    <section class="sec-container-1">
+        <h1>Notes</h1>
+        <div class="notepreview">
+            <div class="notepreview-title">
+                <h3>Bienvenido</h3>
+            </div>
+            <p>Toca aquí para editar tus notas</p>
+        </div>
+        <div class="notepreview">
+            <div class="notepreview-title">
+                <h3>Bienvenido</h3>
+            </div>
+            <p>Toca aquí para editar tus notas</p>
+        </div>
+        <div class="notepreview">
+            <div class="notepreview-title">
+                <h3>Bienvenido</h3>
+            </div>
+            <p>Toca aquí para editar tus notas</p>
+        </div>
     </section>
 </body>
 </html> 

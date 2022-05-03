@@ -1,6 +1,9 @@
 
-/* COLORS */
+
 *{
+
+    /* COLORS */
+
     --yellowcolor: #fbf8cc;
     --creaamcolor: #fde4cf;
     --orangecolor: #ffcfd2;
@@ -12,4 +15,10 @@
     --ciancolor: #98f5e1;
     --greencolor: #b9fbc0;
     --textcolor: #000000;
+    --selectorcolor: #0095ff;
+    --greycolor: #eeeeee;
+
+
+    --bshadown: -0.7rem 0.7rem 1rem #00000031;
+
 }
