@@ -20,7 +20,7 @@
                 <input type="password" name="contraseña" placeholder="password">
                 <label class="terms" for="terms">Aceptar los <span>términos y condiciones</span></label>
                 <input type="checkbox" name="terms">
-                <div class="bt-con"><button type="submit"" name="crear">Crear ///</button></div>
+                <div class="bt-con"><button type="submit"" name="crear">Crear</button></div>
             </form>
             </div>
     </section>
