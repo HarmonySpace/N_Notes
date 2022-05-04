@@ -10,6 +10,7 @@
 <body>
     <section class="sec-container-1 backblue">
         <div class="form-container-1">
+            <a href="index.php" class="back"><img src="means/flecha.png" alt="back"></a>
             <h1>Sign in</h1>
             <h2>Crea una cuenta con nosotros</h2>
             <form action="machine.php" method="post" enctype="multipart/form-data">

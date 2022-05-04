@@ -14,7 +14,7 @@
     <section class="sec-container-1">
         <nav class="nav-container-1">
             <ul class="list-container-1">
-                <li><a href="#">Sign in</a></li>
+                <li><a href="signin.php">Sign in</a></li>
                 <li><a href="#">Log in</a></li>
             </ul>
         </nav>      
