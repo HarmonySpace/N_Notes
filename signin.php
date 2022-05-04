@@ -14,6 +14,8 @@
             <h1>Sign in</h1>
             <h2>Crea una cuenta con nosotros</h2>
             <form action="machine.php" method="post" enctype="multipart/form-data">
+                <label for="username">Nombre de Usuario</label>
+                <input type="text" name="username" placeholder="Spaceweb">
                 <label for="correo">Correo</label>
                 <input type="text" name="correo" placeholder="mooninthespace@gmail.com">
                 <label for="contraseña">Password</label>
